@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.header {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+input {
+    border-radius: 3px;
+    border: solid 3px black;
+}
+
+.taskSpan {
+    font-size: 20px;
+    color: darkmagenta;
+    list-style-position: inside;
+}
+
+.list {
+    padding-top: 15px;
+    margin-right: 50px;
+}
